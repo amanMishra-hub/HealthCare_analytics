@@ -165,7 +165,4 @@ jupyter notebook
 - **seaborn** - statistical plots
 - **jupyter** - interactive analysis
 
----
-**Anik Tahabilder**
-Department of Computer Science
-Wayne State University
+
