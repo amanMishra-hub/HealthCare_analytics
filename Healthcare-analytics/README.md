@@ -133,29 +133,10 @@ Weak correlations between numeric variables. Age has minimal impact on billing a
 
 - Add predictive modeling if real data available
 - Analyze seasonal admission patterns
-- Build interactive dashboard with Plotly
+- Build interactive dashboard with Power BI
 
-## Project Structure
 
-```
-├── dataset/               # data files
-├── docs/                  # notes
-├── results/
-│   ├── plots/            # saved charts
-│   └── findings/         # analysis notes
-├── analysis.ipynb        # main notebook
-├── requirements.txt
-└── README.md
-```
 
-## Setup
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-jupyter notebook
-```
 
 ## Tools Used
 
